@@ -3,7 +3,7 @@
 
 """
 @date: 2019-11-20
-@author: Sebastian Keck, eins+null
+@author: Sebastian Keck
 
 Rendering SnippetLab Snippets from JSON to HTML
 """
